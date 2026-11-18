@@ -1,0 +1,4 @@
+interface:
+  display_name: "英文论文初稿助手"
+  short_description: "引导科研项目完成英文论文初稿，包含论证提纲、逐段写作、图表与引用检查"
+  default_prompt: "Use $paper-draft to guide me from my research project to an English paper first draft."
